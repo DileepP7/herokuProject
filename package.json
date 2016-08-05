@@ -1,10 +1,10 @@
 {
     "name": "mean-stack-registration-login-example",
     "version": "1.0.0",
-    "description": "MEAN Stack User Registration and Login Example Application",
+    "description": " Node.js based User Registration and Login Application deployed in heroku",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/mean-stack-registration-login-example.git"
+        "url": "https://github.com/Dileepdesire/herokuProject"
     },
     "dependencies": {
         "bcryptjs": "^2.1.0",

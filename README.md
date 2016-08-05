@@ -1,5 +1,5 @@
-# mean-stack-registration-login-example
+# Node.js based User Registration and Login Application deployed in heroku
 
-MEAN Stack User Registration and Login Example Application
+Node.js based User Registration and Login Application deployed in heroku
 
-To see a demo and further details go to http://jasonwatmore.com/post/2015/12/09/MEAN-Stack-User-Registration-and-Login-Example.aspx
+To see a demo and further details go to https://github.com/Dileepdesire/herokuProject
